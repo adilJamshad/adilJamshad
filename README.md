@@ -14,10 +14,9 @@ Hi, I'm Adil Ihsan, a Full Stack Developer with over 5 years of industrial exper
 <!--![](https://github-readme-stats.vercel.app/api?username=adilJamshad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adilJamshad&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adilJamshad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!--
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adilJamshad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
--->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
